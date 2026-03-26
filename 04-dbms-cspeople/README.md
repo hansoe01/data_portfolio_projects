@@ -1,9 +1,9 @@
-## 1. DBMS for CS Most Influential People: Biographical Information
+## 4. DBMS for CS Most Influential People: Biographical Information (Group Project)
 
 ### 📌 Objective
 The proposed system DBMS utilizes a relational database as an information repository. The database will contain biographical information for cybersecurity’s most influential people.
 
-### Data Entities:
+### Data Entities
 Identification: This will include standard identifying information (contributor profiles) like name, nationality, and primary domains. Additionally, including unique identifiers for quick profile access.
 
 ### ER Design
@@ -21,11 +21,7 @@ Identification: This will include standard identifying information (contributor 
 
 <img width="1069" height="692" alt="Screenshot 2026-03-26 at 15 05 39" src="https://github.com/user-attachments/assets/e1677fef-b733-40cd-aecb-983eebb3f995" />
 
-
-
-
-
-
+This project helps me to gain practical hand-on experience for database management sytem with the fundamental theory of ER design, relational schema, SQL implementation through data defination language(DDL) and  data manipulation language(DML) and team works practice for project success.
 
 
 #### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects)
