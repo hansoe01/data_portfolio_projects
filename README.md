@@ -19,6 +19,6 @@ View Project :
 #### 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
 Tools and Concepts: SQL and Relational Database Concept <br>
 Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page. <br>
-View Project :
+View Project : [DBMS_CSPeopple](https://github.com/hansoe01/data_portfolio_projects/tree/main/04-dbms-cspeople)
 
 #### Return to: [Home](https://github.com/hansoe01)
