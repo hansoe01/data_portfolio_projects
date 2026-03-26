@@ -26,4 +26,4 @@ Analyze supply chain data to improve efficiency and reduce costs.
 - Improve supplier selection
 - Optimize reorder points
   
-#### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects/blob/main/README.md)
+#### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects)
