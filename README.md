@@ -8,7 +8,7 @@ View Project:
 #### 2. HR Analysis - Headcount and Turnover
 Tools: Microsoft Excel and Power BI <br>
 Analysis of HR headcount and Turnover for the organization.<br>
-View Project: [HR Analysis](https://github.com/mghansoe01-HS/HAN-SOE/tree/main/01-hr-analysis)
+View Project: [HR Analysis](https://github.com/hansoe01/data_portfolio_projects/blob/main/02-hr-analysis/README.md)
 
 
 #### 3. AirBnb Supply Analysis 
