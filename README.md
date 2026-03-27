@@ -5,9 +5,9 @@ Tools: Microsoft Excel <br>
 Analysis of HR headcount and Turnover for the organization <br>
 View Project:
 
-#### 2. HR Analysis - Headcount and Turnover
+#### 2. HR People Analysis 
 Tools: Microsoft Excel and Power BI <br>
-Analysis of HR headcount and Turnover for the organization.<br>
+Analysis of HR Key Metrics for the organization.<br>
 View Project: [HR Analysis](https://github.com/hansoe01/data_portfolio_projects/blob/main/02-hr-analysis/README.md)
 
 
