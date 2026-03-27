@@ -1,24 +1,24 @@
-## 1. HR Data Analysis_Employee Headcount and Turnover
+## 1. HR People Analysis
 
 ### 📌 Objective
-Analyze supply chain data to improve efficiency and reduce costs.
+To Analyze the HR Key Metrics and understand the various HR trends for the organization.
 
 ### 📊 Tools Used
-- Python (Pandas)
-- Power BI
-- SQL
+- Microsoft Excel
+- Microsoft Power BI
+
 
 ### 📂 Dataset
 (Source or description)
 
 ### 🔍 Key Analysis
-- Inventory turnover
-- Supplier performance
-- Delivery delays
+- Employee Headcount
+- Employee Trunover
 
 ### 📈 Results & Insights
 - Reduced stockouts by 15%
 - Identified slow suppliers
+- 
 ### 📊 Dashboard
 ![Dashboard](images/dashboard.png)
 
