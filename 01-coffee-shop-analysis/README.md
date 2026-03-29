@@ -43,7 +43,7 @@ and supply chain optimization <br>
 •	Re-evaluate underperforming product categories and replace with new product if necessary <br>
 
 ### 🚀 Project Impact
-This project help me to demonstrates the ability to:
+This project help me to demonstrates the ability to: <br>
 •	Transform raw data into actionable insights <br>
 •	Build interactive dashboards for business users <br>
 •	Apply analytical thinking to solve real-world business problems <br>
