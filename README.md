@@ -3,7 +3,7 @@
 #### 1. Coffee Shop - Sales Analysis
 Tools: Microsoft Excel <br> 
 Analysis of HR headcount and Turnover for the organization <br>
-View Project:
+View Project: [CoffeeSales Analysis](https://github.com/hansoe01/data_portfolio_projects/tree/main/01-coffee-shop-analysis)
 
 #### 2. HR People Analysis 
 Tools: Microsoft Excel and Power BI <br>
