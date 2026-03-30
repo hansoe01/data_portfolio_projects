@@ -11,10 +11,10 @@ Analysis of HR Key Metrics for the organization.<br>
 View Project: [HR Analysis](https://github.com/hansoe01/data_portfolio_projects/blob/main/02-hr-analysis/README.md)
 
 
-#### 3. AirBnb Supply Analysis 
+#### 3. AirBnb Listings Analysis 
 Tools: Python (Pandas,Seabon and Matplot Libraries) <br>
 Analyzed the impact of regulatory change on listings in Paris. <br>
-View Project :
+View Project : [AirBnb Analysis](https://github.com/hansoe01/data_portfolio_projects/tree/main/03-airbnb-listings-analysis)
 
 #### 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
 Tools and Concepts: SQL and Relational Database Concept <br>
