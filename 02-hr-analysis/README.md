@@ -18,6 +18,8 @@ The dashboard helps organizations make data-driven HR decisions by uncovering in
 
 **1. Headcount Analysis** <br>
 
+<img width="1452" height="862" alt="HR data-1" src="https://github.com/user-attachments/assets/f1bf109b-3d1b-4f0b-86d8-c2305b53eb19" />
+
 •	Total Employees: 3,409 <br>
 •	Department-wise distribution (Software, Sales, Marketing, etc.) <br>
 •	Job level breakdown (Individual Contributor → Executive) <br>
@@ -29,6 +31,8 @@ The dashboard helps organizations make data-driven HR decisions by uncovering in
 	- Race & ethnicity <br>
 
 **2. Employee Turnover Analysis** <br>
+
+<img width="1461" height="855" alt="HR data-2" src="https://github.com/user-attachments/assets/c52676af-4d4b-4559-abfe-253c859ab591" />
 
 •	Turnover % trend by year <br>
 •	Turnover by:<br>
@@ -99,15 +103,6 @@ Top reasons employees leave:<br>
 •	Power BI – Data visualization & dashboard development <br>
 •	Power Query – Data transformation <br>
 •	DAX – Data modeling and calculations <br>
-
-
-### 📸 Dashboard Preview
-
-**Headcount Dashboard**
-<img width="1452" height="862" alt="HR data-1" src="https://github.com/user-attachments/assets/f1bf109b-3d1b-4f0b-86d8-c2305b53eb19" />
-
-**Turnover Dashboard**
-<img width="1461" height="855" alt="HR data-2" src="https://github.com/user-attachments/assets/c52676af-4d4b-4559-abfe-253c859ab591" />
 
 
 #### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects)
