@@ -17,23 +17,24 @@ The dashboard helps organizations make data-driven HR decisions by uncovering in
 ### 📊 Dashboard Features
 
 **1. Headcount Analysis** <br>
+
 •	Total Employees: 3,409 <br>
 •	Department-wise distribution (Software, Sales, Marketing, etc.) <br>
 •	Job level breakdown (Individual Contributor → Executive) <br>
-•	Location insights (City-level and Remote vs On-site) <br>
+•	Location insights ( Remote vs On-site) <br>
 •	Workforce demographics:<br>
 	- Gender <br>
 	- Age distribution <br>
 	- Education level <br>
 	- Race & ethnicity <br>
 
-**2. Employee Turnover Analysis**
+**2. Employee Turnover Analysis** <br>
+
 •	Turnover % trend by year <br>
 •	Turnover by:<br>
 	- Job level <br>
 	- Department <br>
 	- Termination type (Voluntary vs Involuntary) <br>
-•	Top reasons for employee attrition <br>
 
 ### 🔍 Key Insights
 
