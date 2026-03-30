@@ -12,8 +12,8 @@ View Project: [HR Analysis](https://github.com/hansoe01/data_portfolio_projects/
 
 
 #### 3. AirBnb Supply Analysis 
-Tools: Python, Pandas and Seabon <br>
-Analyzed the impact factor for supply chain in Paris. <br>
+Tools: Python (Pandas,Seabon and Matplot Libraries) <br>
+Analyzed the impact of regulatory change on listings in Paris. <br>
 View Project :
 
 #### 4. DATABASE MANAGEMENT For Biographical Information (Group Project)
