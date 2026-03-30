@@ -74,4 +74,6 @@ The analysis was conducted using Python with a focus on data preparation, visual
 📊 Policymakers should balance tourism benefits vs housing availability <br>
 💵 Rising prices suggest reduced supply or increased demand pressure
 
+Dataset : https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews/data
+
 #### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects)
