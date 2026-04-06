@@ -1,12 +1,12 @@
 ## 📊 Data Portfolio Projects
 
 #### 1. Coffee Shop - Sales Analysis
-Tools: Microsoft Excel <br> 
+Tools: Microsoft Power BI <br> 
 Analysis of HR headcount and Turnover for the organization <br>
 View Project: [CoffeeSales Analysis](https://github.com/hansoe01/data_portfolio_projects/tree/main/01-coffee-shop-analysis)
 
 #### 2. HR People Analysis 
-Tools: Microsoft Excel and Power BI <br>
+Tools: Microsoft Power BI <br>
 Analysis of HR Key Metrics for the organization.<br>
 View Project: [HR Analysis](https://github.com/hansoe01/data_portfolio_projects/blob/main/02-hr-analysis/README.md)
 
