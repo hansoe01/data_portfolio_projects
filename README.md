@@ -24,6 +24,6 @@ View Project : [DBMS_CSPeopple](https://github.com/hansoe01/data_portfolio_proje
 #### 5. Global TB Trends Analysis
 Tools and Concepts: Google Colab , Python and its data analysis and visualization libraries <br>
 Analyzed the global TB trends and its insight using WHO shared data set. <br>
-View Project : [Global TB Trends]()
+View Project : [Global TB Trends](https://github.com/hansoe01/data_portfolio_projects/blob/main/Global_TB_Trends_and_Analysis.ipynb)
 
 #### Return to: [Home](https://github.com/hansoe01)
