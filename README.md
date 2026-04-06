@@ -21,4 +21,9 @@ Tools and Concepts: SQL and Relational Database Concept <br>
 Creation of DBMS for Computer Science Most Influencial People: Biographical People which can be updated from Web-front page. <br>
 View Project : [DBMS_CSPeopple](https://github.com/hansoe01/data_portfolio_projects/tree/main/04-dbms-cspeople)
 
+#### 5. Global TB Trends Analysis
+Tools and Concepts: Google Colab , Python and its data analysis and visualization libraries <br>
+Analyzed the global TB trends and its insight using WHO shared data set. <br>
+View Project : [Global TB Trends]()
+
 #### Return to: [Home](https://github.com/hansoe01)
