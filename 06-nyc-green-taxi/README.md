@@ -29,31 +29,50 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 ### 💰 Tipping Behavior
 
-* Tips are influenced by:
-
-  * Fare amount
-  * Trip distance
-  * Time of day
+* Strongly correlated with fare amount and trip distance
+* Behavioral variability limits prediction accuracy
 
 ### 🚦 Traffic Patterns
 
 * Average speed is lower during peak hours
 * Higher speeds at night indicate reduced congestion
 
+### ⚠️ Data Quality Insights
+* Detected extreme outliers (e.g., unrealistic distances and speeds)
+* Highlights importance of preprocessing in real-world datasets
 
-## 🤖 Machine Learning Model
 
+### 🤖 Machine Learning Model
 * Model: Random Forest Regressor
 * Target: Tip Percentage
-* Features:
+* Train/Test Split: 80% / 20%
 
-  * Trip distance
-  * Fare amount
-  * Total amount
-  * Passenger count
-  * Trip_time_min
-  * Pickup hour
-  * Pickup day
+#### 📈 Performance
+* Moderate predictive power (R² reflects behavioral variability)
+* Key drivers:
+   * Fare amount
+   * Trip distance
+   * Time of day
+
+### 📊 Visualizations
+* Trip distance distribution (histogram)
+<img width="1423" height="780" alt="Screenshot 2026-04-15 at 09 58 41" src="https://github.com/user-attachments/assets/09b893c6-0333-467a-81ff-adc0f1b03ddf" />
+
+* Trips Distance by Hour
+<img width="1423" height="780" alt="Screenshot 2026-04-15 at 10 11 07" src="https://github.com/user-attachments/assets/3d1ad26c-66b4-450a-a4f6-1fea280dc632" />
+
+* JFK Airport Trip by Hour
+
+<img width="1423" height="780" alt="Screenshot 2026-04-15 at 10 11 20" src="https://github.com/user-attachments/assets/272c19d7-25a7-4d7f-8372-75c3b5e4875e" />
+
+* Actual and Predicted ML Model Tip Percentage
+
+<img width="1423" height="780" alt="Screenshot 2026-04-15 at 10 11 41" src="https://github.com/user-attachments/assets/d727e469-16fd-4184-8b6e-3e05be1a7f2a" />
+
+* Average Trip Speeds by Hour of the Day
+
+<img width="1423" height="780" alt="Screenshot 2026-04-15 at 10 12 29" src="https://github.com/user-attachments/assets/6b638d6a-75f2-4177-86a8-95c688da7282" />
+
 
 ## 🛠 Tools Used
 
@@ -70,6 +89,14 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Open Jupyter Notebook (or) Google Colab
 3. Run all cells in order
 
+## 🚀 Key Takeaways
+This project demonstrates:
+
+* Real-world data cleaning and anomaly handling
+* Exploratory data analysis (EDA)
+* Feature engineering
+* Machine learning modeling
+* Business insight generation
 
 ## 📌 Future Improvements
 
@@ -82,3 +109,5 @@ https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Han Soe <br>
 Aspiring Data Analyst / Data Scientist
+
+#### Return to : [Projects Main](https://github.com/hansoe01/data_portfolio_projects)
