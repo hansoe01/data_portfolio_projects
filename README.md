@@ -26,4 +26,10 @@ Tools and Concepts: Google Colab , Python and its data analysis and visualizatio
 Analyzed the global TB trends and its insight using WHO shared data set. <br>
 View Project : [Global TB Trends](https://github.com/hansoe01/data_portfolio_projects/blob/main/Global_TB_Trends_and_Analysis.ipynb)
 
+#### 6. NYC Green Taxi Trips Analysis
+Tools and Concepts: Google Colab , Python (Pandas, Numpy), Visualization(Matplotlib, Seaborn), Machine Learning (sklearn model) <br>
+Analyzed the NYC green taxi trip patterns and behaviors. <br>
+View Project : [NYC Green Taxi](https://github.com/hansoe01/data_portfolio_projects/blob/main/Global_TB_Trends_and_Analysis.ipynb)
+
+
 #### Return to: [Home](https://github.com/hansoe01)
