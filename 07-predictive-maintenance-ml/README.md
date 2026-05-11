@@ -95,3 +95,9 @@ This project demonstrates: <br>
 - Handling imbalanced classification problems
 - Explainable AI techniques
 - Translating model outputs into operational decisions
+
+## 📌 Future Improvements
+- Collect real machine data over time (with timestamps) so we can track how each machine behaves and detect changes more accurately.
+- Use models that estimate how long a machine can keep running before it fails, so maintenance can be planned in advance instead of just reacting to a failure warning.
+- Gather cost information from the factory (like inspection costs, downtime costs, and cost of missed failures) so decisions can be based on real business impact, not just model scores.
+
